@@ -1,7 +1,7 @@
 # Личный проект «Большое путешествие» [![Build status][travis-image]][travis-url]
 
 * Студент: [olga verhovetchi](https://up.htmlacademy.ru/ecmascript/10/user/92596).
-* Наставник: `Неизвестно`.
+* Наставник: `Виталий Кравцов`.
 
 ---
 
